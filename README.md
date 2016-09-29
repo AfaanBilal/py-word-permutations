@@ -1,6 +1,8 @@
 Py Word Permutaions
 ==============
 
+[![Build Status](https://travis-ci.org/AfaanBilal/py-word-permutations.svg?branch=master)](https://travis-ci.org/AfaanBilal/py-word-permutations)
+
 Author: **Afaan Bilal ([@AfaanBilal](https://github.com/AfaanBilal))**   
 Author URL: **[Google+](https://google.com/+AfaanBilal)**
 
