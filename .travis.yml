@@ -1,2 +1,4 @@
 language: python
 sudo: required
+install:
+script:
