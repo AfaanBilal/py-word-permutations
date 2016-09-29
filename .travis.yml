@@ -3,4 +3,4 @@ python:
   - "3.5"
 sudo: required
 install:
-script: python3 py-word-permutations.py
+script: echo Done.
