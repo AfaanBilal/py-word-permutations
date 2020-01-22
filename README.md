@@ -1,12 +1,9 @@
 Py Word Permutaions
 ==============
 
-[![Build Status](https://travis-ci.org/AfaanBilal/py-word-permutations.svg?branch=master)](https://travis-ci.org/AfaanBilal/py-word-permutations)
+[![Build Status](https://travis-ci.org/AfaanBilal/py-word-permutations.svg?branch=master)](https://travis-ci.org/AfaanBilal/py-word-permutations)  
 
-Author: **Afaan Bilal ([@AfaanBilal](https://github.com/AfaanBilal))**   
-Author URL: **[Google+](https://google.com/+AfaanBilal)**
-
-[Afaan Bilal](https://afaan.ml)
+Author: **[Afaan Bilal](https://afaan.me)**  
 
 ## Introduction
 **Py Word Permutaions** is a python script that displays all possible permutaions for a set of characters.
