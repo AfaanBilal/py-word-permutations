@@ -3,7 +3,7 @@ Py Word Permutaions
 
 [![Build Status](https://travis-ci.org/AfaanBilal/py-word-permutations.svg?branch=master)](https://travis-ci.org/AfaanBilal/py-word-permutations)  
 
-Author: **[Afaan Bilal](https://afaan.me)**  
+Author: **[Afaan Bilal](https://afaan.dev)**  
 
 ## Introduction
 **Py Word Permutaions** is a python script that displays all possible permutaions for a set of characters.
